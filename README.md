@@ -116,5 +116,5 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+coding+%F0%9F%9A%80;See+you+in+my+next+project!" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Keep+coding+%F0%9F%9A%80;Thank+you+see+you+in+my+next+project!" alt="Typing animation">
 </p>
