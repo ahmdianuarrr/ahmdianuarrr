@@ -46,7 +46,7 @@
 
 <h3>Mini search🔍</h3>
 
-<p>Mini Document Search Engine adalah proyek mesin pencari dokumen sederhana yang menggunakan C++ sebagai backend. Sistem ini memungkinkan pengguna mencari dokumen berdasarkan kata kunci, kemudian mencocokkannya dengan isi dokumen untuk menampilkan hasil yang relevan. Proyek ini berfokus pada penerapan algoritma pencarian, pengolahan teks, manajemen file, dan struktur data.</p>
+<p>Mini Document Search Engine is a simple document search engine project that uses C++ as its backend. The system allows users to search for documents using keywords, then matches those keywords against the document contents to display relevant results. This project focuses on implementing search algorithms, text processing, file management, and data structures.</p>
 
 <p>
   <a href="https://github.com/ahmdianuarrr/mini-search">
