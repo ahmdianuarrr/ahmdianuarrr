@@ -1,10 +1,8 @@
 <h1 align="center">Halo, My name is Danial Ahmad Ianuar👋</h1>
 
-<p align="center"> 
-    <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=100000&color=58A6FF&center=true&vCenter=true&width=400&height=35&lines=Software+Engineer+Student+%F0%9F%92%BB"
-    alt="Software Engineer Student "
-  />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Software+Engineering+Student" alt="Software Engineering Student ">
 </p>
  
 <hr>
@@ -25,7 +23,7 @@
 
 <h3 align="center"> About me 🔍</h3>
 <ul>
- I'm a Software Engineering student in Politeknik Negeri Indraamayu passionate about technology,
+ I'm a Software Engineering student in Politeknik Negeri Indramayu passionate about technology,
   currently learning programming and exploring web development
   while building my skills one step at a time.
 </ul>
